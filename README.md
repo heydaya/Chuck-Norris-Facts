@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="icons/01d.svg" alt="Logo" width="100">
+    <img src="images/chuck-norris.png" alt="Logo" width="80">
   </a>
 
   <h3 align="center">Chuck-Norris Facts App</h3>
