@@ -10,7 +10,7 @@
   <p align="center">
    Chuck-Norris Facts App Built with HTML, CSS, and JavaScript
     <br />
-    <a href="https://heydaya.github.io/projects/weather">View Demo</a>
+    <a href="https://heydaya.github.io/projects/chuck-norris/index.html">View Demo</a>
   </p>
 </p>
 
